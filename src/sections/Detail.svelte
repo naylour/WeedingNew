@@ -1,5 +1,5 @@
 <section class="detail">
-    <h2 class="title">Маленька<br />деталь</h2>
+    <h2 class="title">Маленькая<br />деталь</h2>
 
     <div class="detail-content">
         <img src="./icons/detail_plate.svg" alt="">

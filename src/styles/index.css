@@ -15,8 +15,9 @@
 
 @layer base {
 	body {
-		@apply font-caveat text-secondary text-default;
+		@apply font-caveat text-secondary text-default w-[100vw];
 		@apply bg-pastel px-[calc((100vw-320px)/2)] text-center leading-[100%];
+        overflow-x: hidden;
 	}
 
 	h1,

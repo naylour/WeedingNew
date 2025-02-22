@@ -122,7 +122,7 @@
         @apply top-[100px] right-[10%];
     }
     .heart:nth-child(7) {
-        @apply top-[190px] left-[14%];
+        @apply top-[190px] left-[8%];
     }
     .heart:nth-child(8) {
         @apply top-[44%] right-[10px];

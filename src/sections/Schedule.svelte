@@ -54,7 +54,7 @@
         @apply w-full;
 	}
     .schedule-block .text a {
-        @apply block text-[14px] w-full text-right;
+        @apply block text-[14px] w-full text-right leading-[14px];
     }
 	:global(.schedule-block .text span) {
 		@apply block text-right;
