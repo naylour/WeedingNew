@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Vinograd';
+    src: local('Vinograd'), local('Vinograd'),
+        url('Vinograd.woff2') format('woff2'),
+        url('Vinograd.woff') format('woff'),
+        url('Vinograd.ttf') format('truetype'),
+        url('Vinograd.svg#Vinograd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
