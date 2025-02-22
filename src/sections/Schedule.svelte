@@ -10,7 +10,7 @@
 		<div class="text">
 			<p>{@html title}</p>
 			{#if type !== undefined}
-				<a target="_blank" href="https://yandex.ru/maps/-/CHu6eKkf"
+				<a target="_blank" href={type ? "https://yandex.ru/maps/-/CHubY0zR" : "https://yandex.ru/maps/-/CHu6eKkf"}
 					>{type ? 'ул. Ленина, 37, Майкоп' : 'в ресторане'}</a
 				>
 			{/if}

@@ -84,11 +84,11 @@
     }
 
     .child.boy {
-        @apply top-0 left-0;
+        @apply top-0 left-0 w-[144px] h-[211px];
     }
 
     .child.girl {
-        @apply top-0 right-0;
+        @apply top-0 right-0 w-[137px] h-[214px];
     }
 
     .plate {
@@ -109,7 +109,7 @@
     }
 
     .arrow {
-        @apply -top-[30%] left-[16%];
+        @apply -top-[40%] left-[10%];
     }
 
     .heart:nth-child(4) {
