@@ -6,7 +6,7 @@
 		<p>Мы решили начать новую главу и хотим отметить это событие с вами.</p>
 	</div>
 
-    <img class="cat" src="./images/cat.png" alt="Cat">
+    <img class="cat" src="./images/cat.svg" width="125" height="117" alt="Cat">
     <img class="bg" src="./icons/friends_bg.svg" alt="">
 </section>
 
